@@ -8,3 +8,4 @@ but I actually find it exciting to see how much I improve week by week.
 This repository also serves as one of my projects for Information Assurance and Security (IAS).  
 It’s not just about writing notes, it’s about showing how I apply what I’ve learned in organizing, protecting, and managing information effectively.  
 By documenting my learnings here, I can track my growth, review past lessons, and hopefully inspire other IT students like me to stay consistent in learning.
+ 

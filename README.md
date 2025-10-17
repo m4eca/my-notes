@@ -1,4 +1,4 @@
-# Notes
+# My BSIT Notes Repository
 
 This repository is my personal digital notebook for all the subjects and topics I’ve learned in school.  
 I decided to upload my notes here so I can review anytime or maybe help others too.
@@ -19,7 +19,6 @@ I decided to upload my notes here so I can review anytime or maybe help others t
 
 # Purpose of my notes
 
-I made this notes to:
 - Keep my learnings organized
 - Track my progress each semester
 - Share my notes with other BSIT students

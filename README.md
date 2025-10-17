@@ -6,6 +6,7 @@ I decided to upload my notes here so I can review anytime or maybe help others t
 # What's Inside
 
  File Name  Description 
+ 
  STARTHERE.md - Where to begin reading the repository
  
  About Me.md - Quick intro about me and my goals 

@@ -1,3 +1,4 @@
+# Notes
 
 This repository is my personal digital notebook for all the subjects and topics I’ve learned in school.  
 I decided to upload my notes here so I can review anytime or maybe help others too.
